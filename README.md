@@ -1,5 +1,5 @@
 # FamilyRecipes
-a repo for shared family recipes
+A repo for shared family recipes
 
 Contains a collection of family recipes.
 
